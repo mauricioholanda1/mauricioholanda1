@@ -22,9 +22,9 @@ For over 8 years I have built web and mobile products for companies in Brazil an
 | Company | Project |
 |---|---|
 | Whippy | Conversational CRM with AI automation |
-| Instituto Atlântico · HP | International data centralization platform |
-| Instituto Atlântico · YBY | Complete application for a startup, front and back end |
-| Instituto Atlântico · Pawlytics | User experience improvements for an animal rescue platform |
+| HP | International data centralization platform |
+| YBY | Complete application for a startup, front and back end |
+| Pawlytics | User experience improvements for an animal rescue platform |
 | Tarken | Agriculture platform for water, finance, crop and projection data |
 | Escola de Saúde Pública do Ceará | COVID-19 apps for doctors and a ventilator registry |
 | Mercadapp | Apps and websites for supermarkets across Brazil |
